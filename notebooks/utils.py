@@ -6,6 +6,7 @@ import re
 from typing import Optional
 import uuid
 import random
+from numbers import Number
 
 
 # convert a csv into utf8 format
@@ -21,33 +22,33 @@ def convert_utf8(original_file_path: str, new_file_path: str):
 
 # Remove special characters when dealing with words
 # transforms removed characters into spaces, removes . and -
-def remove_special_for_words(my_string: str):
-    return re.sub(r"[^a-zA-Z0-9]+", ' ', my_string)
+def remove_special_for_words(my_string: str | Number):
+    return re.sub(r"[^a-zA-Z0-9]+", ' ', str(my_string))
 
 # Remove special characters when dealing with numbers
 # No spaces, does not remove - and .
-def remove_special_for_numbers(my_string: str):
-    return re.sub(r"[^a-zA-Z0-9-.]+", '', my_string)
+def remove_special_for_numbers(my_string: str| Number):
+    return re.sub(r"[^a-zA-Z0-9-.]+", '', str(my_string))
 
 # Remove leading and trailing spaces
-def truncate(my_string: str):
-    return my_string.strip()
+def truncate(my_string: str| Number):
+    return str(my_string).strip()
 
 # Replace spaces with underscores
-def snake_case(my_string: str):
-    return my_string.replace(" ", "_")
+def snake_case(my_string: str| Number):
+    return str(my_string).replace(" ", "_")
 
 # Make all letters lowercase
-def lower_case(my_string: str):
-    return my_string.lower()
+def lower_case(my_string: str| Number):
+    return str(my_string).lower()
 
-def remove_spaces(my_string: str):
-    return my_string.replace(" ", "")
+def remove_spaces(my_string: str| Number):
+    return str(my_string).replace(" ", "")
 
 # Get a deterministic hash of a string, dependent only on the seed
 # (for creating unique id columns which will always be consistent when fed the same data and seed, even if generated at different times)
-def deterministic_uuid(data:str):
-    random.seed(data)
+def deterministic_uuid(data:str| Number):
+    random.seed(str(data))
     id = uuid.UUID(bytes=bytes(random.getrandbits(8) for _ in range(16)), version=4)
     id = str(id).replace("-", "")
     return id
