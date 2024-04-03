@@ -1,0 +1,7 @@
+,owner_id,owner,location,pilot_parcel_no,underlying_parcel_number,begin_date,end_date,assmt_taxes,pilot_contract_amt,pilot_debt_service_amt,difference
+0,e03dd30dbca4,elite medical llc,8415 wolf lake,['IDB0000B00015A'],['4000150000000D'],2016-12-31,2022-12-31 00:00:00,635.0,0.0,159.0,-476.0
+1,3146b9a8076b,brimhall food company inc,7472 a e beaty,['IDB0000B000160'],['B0158000004630'],2018-01-01,2025-01-01 00:00:00,64506.0,4987.0,14880.0,-44639.0
+2,85fcec8878f2,odyssey medical technology,2975 brother,['IDB0000B000170'],['B0158J0A00006C'],2019-03-07,2029-03-07 00:00:00,43698.0,4011.0,9922.0,-29766.0
+3,85fcec8878f2,odyssey medical technology,1406 stonewall,['IDB0000B00017A'],['178100000000'],2020-01-01,2029-12-31 00:00:00,9410.0,0.0,2353.0,-7058.0
+4,0033451dcd0d,engineered medical systems llc,3325 appling,['IDB0000B000180'],['B015800000679C'],2020-01-01,2036-01-31 00:00:00,91188.0,13000.0,10479.0,-67709.0
+5,0033451dcd0d,engineered medical systems llc,3325 appling,['IDB0000B00018A'],['178300000000'],2020-01-01,2026-12-31 00:00:00,39419.0,0.0,9855.0,-29564.0

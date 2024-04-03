@@ -1,0 +1,74 @@
+,board_id,board,owner,delinquent_years,amount_due,parcel_no,pilot_terminated,owner_id
+0,9929db2d3885,barlett industrial development board,nan,nan,nan,nan,nan,43b08d3d1b7d
+1,b8e456900053,collierville industrial development board,shelby group international inc,[2022],1842.58,IDB0000C00015A,0.0,8a9611150e92
+2,bb500062bbfe,germantown industrial development board,nan,nan,nan,nan,nan,43b08d3d1b7d
+3,a2a30e152a39,edge board of memphis and shelby county,aesthetic management partners inc,[2022],10558.52,IDB18370000000,0.0,56c594d36bc2
+4,a2a30e152a39,edge board of memphis and shelby county,agilent technologies inc,[2022],3757.41,IDB1775A000000,0.0,5b622a63ecad
+5,a2a30e152a39,edge board of memphis and shelby county,arvato,[2022],89622.82,IDB07380000000,0.0,dde27f3349df
+6,a2a30e152a39,edge board of memphis and shelby county,a z lrc 1 llc,[2022],69549.13,IDB18360000000,0.0,39f870a29158
+7,a2a30e152a39,edge board of memphis and shelby county,cognate bioservices inc,[2022],2101.15,IDB1831A000000,0.0,6b6dca23bf27
+8,a2a30e152a39,edge board of memphis and shelby county,dayco products,[2022],101.5,IDB1040A000000,0.0,4fad32ac6914
+9,a2a30e152a39,edge board of memphis and shelby county,evergreen packaging inc,[2022],15105.77,IDB14300000000,0.0,0c9afe0a9924
+10,a2a30e152a39,edge board of memphis and shelby county,fedex supplychain system inc,[2022],183796.17,IDB11700000000,0.0,47549848842c
+11,a2a30e152a39,edge board of memphis and shelby county,franklin sports inc,[2022],203.09,IDB1719A000000,0.0,824ee38734b1
+12,a2a30e152a39,edge board of memphis and shelby county,franklin sports inc,[2022],369.03,IDB1780A000000,0.0,824ee38734b1
+13,a2a30e152a39,edge board of memphis and shelby county,impact innovations inc,[2022],4802.24,IDB1736A000000,0.0,865f874fb5c8
+14,a2a30e152a39,edge board of memphis and shelby county,international paper,[2022],15840.24,IDB18500000000,0.0,e8d379e72c19
+15,a2a30e152a39,edge board of memphis and shelby county,lucite international inc,[2022],462.96,IDB1756A000000,0.0,9a0da30ab5f8
+16,a2a30e152a39,edge board of memphis and shelby county,olymbec usa llc,[2022],16824.48,IDB17980000000,0.0,567dcc9200e4
+17,a2a30e152a39,edge board of memphis and shelby county,onyx medical llc,[2022],37865.08,IDB17690000000,0.0,29d27c135c1a
+18,a2a30e152a39,edge board of memphis and shelby county,onyx medical llc,[2022],3901.41,IDB1833A000000,0.0,29d27c135c1a
+19,a2a30e152a39,edge board of memphis and shelby county,penn a kem llc,[2022],9795.58,IDB1829A000000,0.0,48e8ed513fd6
+20,a2a30e152a39,edge board of memphis and shelby county,peroxychem llc,[2022],8685.65,IDB1774A000000,0.0,07e21a66c1cd
+21,a2a30e152a39,edge board of memphis and shelby county,peroxychem llc,[2022],32226.55,IDB18050000000,0.0,07e21a66c1cd
+22,a2a30e152a39,edge board of memphis and shelby county,primacy property leasing memphis llc,[2022],57637.7,IDB18350000000,0.0,94b5ac3f99d1
+23,a2a30e152a39,edge board of memphis and shelby county,rbm cherry road partners,[2022],11814.73,IDB09330000000,0.0,e72a3fa66b2a
+24,a2a30e152a39,edge board of memphis and shelby county,tag american way real estate llc,[2022],584.0,IDB1836A000000,0.0,33206a8f8de4
+25,a2a30e152a39,edge board of memphis and shelby county,ubiquiti inc,[2022],3407.73,IDB1832A000000,0.0,7ad23bff2839
+26,a2a30e152a39,edge board of memphis and shelby county,water to wine,[2022],2120.51,IDB18480000000,0.0,378252bb8c38
+27,ba21b80e2c35,county attorney,nan,nan,nan,nan,nan,43b08d3d1b7d
+28,53c1afb3aebe,health educational and housing facilities board of memphis,applewood property management,"[2021, 2022]",61283.85,IHE0007D000000,0.0,e1e45623df3f
+29,53c1afb3aebe,health educational and housing facilities board of memphis,april woods ii property,[2022],5070.5,IHE0002B000000,0.0,88761ff90310
+30,53c1afb3aebe,health educational and housing facilities board of memphis,cavelier court tn tc lp,[2022],16821.63,IHE0004Z000000,0.0,4ca72d337fda
+31,53c1afb3aebe,health educational and housing facilities board of memphis,feels like home senior residences,"[2020, 2021, 2022]",55405.05,IHE0005O000000,0.0,c0f75c74b5be
+32,53c1afb3aebe,health educational and housing facilities board of memphis,forest creek townhomes llc,[2022],203.4,IHE0003L000000,0.0,d19db5adb204
+33,53c1afb3aebe,health educational and housing facilities board of memphis,gmf bent tree llc,[2022],9871.37,IHE0003W000000,0.0,fb747efe0e5b
+34,53c1afb3aebe,health educational and housing facilities board of memphis,gospel gardens tn tc lp,[2022],595.6,IHE0005A000000,0.0,d860f1813b76
+35,53c1afb3aebe,health educational and housing facilities board of memphis,mem3 cedarwood llc,[2022],9399.95,IHE0007I000000,0.0,ba17477ae72d
+36,53c1afb3aebe,health educational and housing facilities board of memphis,mh strategies family rad,[2022],28387.01,IHE0006L000000,0.0,13b14cad92f4
+37,53c1afb3aebe,health educational and housing facilities board of memphis,mh strategies family rad,[2022],89255.65,IHE0006Y000000,0.0,13b14cad92f4
+38,53c1afb3aebe,health educational and housing facilities board of memphis,renaissance at steele,[2022],8487.2,IHE0005M000000,0.0,eeb298bdab24
+39,53c1afb3aebe,health educational and housing facilities board of memphis,riverview kansas community development corporation,[2022],3858.81,IHE0003T000000,0.0,0225b4431404
+40,53c1afb3aebe,health educational and housing facilities board of memphis,tov virginia partners l p,[2022],59119.7,IHE0002Y000000,0.0,4cf42675a75a
+41,53c1afb3aebe,health educational and housing facilities board of memphis,tup i limited partnership,[2022],14196.09,IHE0001U000000,0.0,a40b8dda4967
+42,9f0ec59b0a23,city county contracts,shield inc,[2022],3958.5,IMC00000000040,0.0,0ea022870c29
+43,9f0ec59b0a23,city county contracts,caap place of hope inc,[2022],913.5,IMC00000000090,0.0,06c969999775
+44,80de75842f68,health educational and housing facilities board of shelby county,nan,nan,nan,nan,nan,43b08d3d1b7d
+45,3fe960ffbe54,downtown memphis center city commission,158 vance llc,[2022],16630.32,ICC07620000000,0.0,065273f079b2
+46,3fe960ffbe54,downtown memphis center city commission,18 s main mem llc,[2022],4785.53,ICC07670000000,0.0,f9631c725774
+47,3fe960ffbe54,downtown memphis center city commission,9 so 2nd properties llc,[2022],7622.69,ICC03940000000,0.0,1af5b6479ac0
+48,3fe960ffbe54,downtown memphis center city commission,flats at overton square pmt investments llc,[2022],1090.13,ICC07770000000,0.0,2e3c8b3fdeaa
+49,3fe960ffbe54,downtown memphis center city commission,frix properties,[2022],4131.09,ICC07180000000,0.0,9c60aefc18b4
+50,3fe960ffbe54,downtown memphis center city commission,harbor town centre,"[2016, 2017, 2018, 2019, 2020, 2021, 2022]",5746.65,ICC03860000000,0.0,4bf8c5100b6a
+51,3fe960ffbe54,downtown memphis center city commission,mhf memphis vi llc,[2022],77861.61,ICC07610000000,0.0,797aa66d1bda
+52,3fe960ffbe54,downtown memphis center city commission,nail bar on the island llc,[2022],67.44,ICC07410000000,0.0,0934c0e79054
+53,3fe960ffbe54,downtown memphis center city commission,olymbec usa sanderlin place,[2022],11700.79,ICC00480000000,0.0,4f2bcdd0f2b3
+54,3fe960ffbe54,downtown memphis center city commission,parachute investment company llc,"[2021, 2022]",6798.08,ICC07920000000,0.0,73a4b508c5ff
+55,3fe960ffbe54,downtown memphis center city commission,parking authority city of memphis cnty of shelby rise parking garage,[2022],1757.69,ICC07590000000,0.0,3ec0a3b9501f
+56,3fe960ffbe54,downtown memphis center city commission,peabody office tower lp,[2022],24.78,ICC02410000000,0.0,84496d6a1b36
+57,3fe960ffbe54,downtown memphis center city commission,pinch partners investment co,[2022],2064.51,ICC01140000000,0.0,b825b3c8a5a4
+58,3fe960ffbe54,downtown memphis center city commission,poplar arts loft llc,"[2020, 2021, 2022]",69613.17,ICC07800000000,0.0,39d1f61aea35
+59,3fe960ffbe54,downtown memphis center city commission,south bluffs a joint venture,[2022],1515.35,ICC03950000000,0.0,504de21a79cc
+60,3fe960ffbe54,downtown memphis center city commission,thob llc,"[2021, 2022]",12389.0,ICC03200000000,0.0,f33a46a8d276
+61,3fe960ffbe54,downtown memphis center city commission,wolf river harbor holdings llc,[2022],17622.72,ICC08010000000,0.0,d2517062b903
+62,9665b794f6ab,arlington industrial development board,w d arlington llc,[2020],138288.61,IDB0000A000130,nan,091e5275fee0
+63,9929db2d3885,barlett industrial development board,nan,nan,nan,nan,nan,43b08d3d1b7d
+64,b8e456900053,collierville industrial development board,nan,nan,nan,nan,nan,43b08d3d1b7d
+65,bb500062bbfe,germantown industrial development board,nan,nan,nan,nan,nan,43b08d3d1b7d
+66,a2a30e152a39,edge board of memphis and shelby county,nan,nan,nan,nan,nan,43b08d3d1b7d
+67,53c1afb3aebe,health educational and housing facilities board of memphis,capital communities atlantic plp,[2012],51472.63,IHE0000X000000,1.0,dbb610b386c2
+68,53c1afb3aebe,health educational and housing facilities board of memphis,levi limited partnership,"[2012, 2013, 2014]",24359.23,IHE0001M000000,1.0,9ad2883c08e5
+69,53c1afb3aebe,health educational and housing facilities board of memphis,lyons ridge apartments lp,"[2012, 2013, 2014, 2015, 2016]",213137.51,IHE0003B000000,1.0,0cd638e42d40
+70,53c1afb3aebe,health educational and housing facilities board of memphis,village parkway lp,"[2012, 2013, 2014, 2015, 2016]",539119.49,IHE0002Z000000,1.0,0d7c83819ea5
+71,efdc8a56f149,ealth educational and housing facilities board of shelby county,nan,nan,nan,nan,nan,43b08d3d1b7d
+72,3fe960ffbe54,downtown memphis center city commission,nan,nan,nan,nan,nan,43b08d3d1b7d

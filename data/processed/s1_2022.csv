@@ -1,0 +1,12 @@
+,board_id,board,number_of_contracts,amount_billed_pilot_inl,amount_billed_debt_service,assessment,tax_based_on_assessment_at_2021_tax_rate,difference,percentage_total_pilot_billing
+0,5b1f4c0c65a3,downtown memphis commission,124,2265277.82,1378186.61,403472360.0,13677713.0,-10034248.57,20.05
+1,d5fe3a85ec4e,edge shelby,241,4357705.55,5922590.25,845013990.0,28645974.26,-18365678.46,56.57
+2,abb34861ca91,industrial development of arlington,10,116203.75,49372.12,8906110.0,301917.13,-136341.26,0.91
+3,aada4183f85c,industrial development of bartlett,6,21998.39,47646.73,7340910.0,248856.85,-179211.73,0.38
+4,91e543f3085f,industrial development of collierville,12,690322.0,914883.78,103923710.0,3523013.77,-1917807.99,8.83
+5,3f1cf0abc31c,industrial development of germantown,4,310191.18,211034.77,34051040.0,1154330.26,-633104.31,2.87
+6,757a7152194c,industrial development of millington,1,50530.09,80385.75,10751680.0,364481.95,-233566.11,0.72
+7,3bcfcbd3a12d,health education board memphis,107,1627887.89,0.0,245059120.0,8307504.17,-6679616.28,8.96
+8,64c9e33b120e,health education board shelby,6,88595.41,0.0,30543560.0,1035426.68,-946831.27,0.49
+9,df3a7c5fc143,miscellaneous contracts,10,35460.0,0.0,10528400.0,356912.76,-321452.76,0.2
+10,ac18571846b6,city county government contracts,5,5868.72,0.0,3371400.0,114290.46,-108421.74,0.03

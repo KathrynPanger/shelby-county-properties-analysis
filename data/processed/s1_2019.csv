@@ -1,4 +1,4 @@
-,id,board,number_of_contracts,amount_billed_pilot_inl,amount_billed_debt_service,assessment,tax_based_on_assessment_at_2021_tax_rate,difference,percentage_total_pilot_billing
+,board_id,board,number_of_contracts,amount_billed_pilot_inl,amount_billed_debt_service,assessment,tax_based_on_assessment_at_2021_tax_rate,difference,percentage_total_pilot_billing
 0,5b1f4c0c65a3,downtown memphis commission,123,1981904.47,1226006.18,349460540.0,14153151.87,-10945241.22,20.69
 1,d5fe3a85ec4e,edge shelby,243,2856659.78,6149156.86,673220031.0,27265411.26,-18259594.62,58.08
 2,abb34861ca91,industrial development of arlington,15,52116.9,114566.56,11977950.0,485106.98,-318423.52,1.07

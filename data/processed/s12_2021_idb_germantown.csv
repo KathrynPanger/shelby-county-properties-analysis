@@ -1,0 +1,5 @@
+,owner_id,owner,location,pilot_parcel_no,underlying_parcel_number,begin_date,end_date,assmt_taxes,pilot_contract_amt,pilot_debt_service_amt,difference
+0,fa0c449b658b,gill poplar gp,6797 hwy 72,['IDB0000G000050'],['G0219000003110'],2018-03-17,2033-03-17 00:00:00,346522.0,169314.0,44302.0,-132906.0
+1,aeaf02f07dc9,mid america apartments lp,6815 poplar,['IDB0000G00006A'],['6000050000000D'],2018-12-31,2033-12-31 00:00:00,16744.0,0.0,4186.0,-12558.0
+2,3f73c512e692,campbell clinic wr mob,1400 germantown,['IDB0000G000070'],"['G0220000003690', ' G0220000004560', ' G0220000004570']",2019-12-31,2027-12-30 00:00:00,671422.0,123694.0,136932.0,-410796.0
+3,c90d7ab8918a,crestwyn partners,9280 crestwyn hills,['IDB14000000000'],['G0243000004890'],2016-08-16,2023-08-16 00:00:00,119643.0,17183.0,25615.0,-76845.0

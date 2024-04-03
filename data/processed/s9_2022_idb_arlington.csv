@@ -1,0 +1,11 @@
+,owner_id,owner,location,pilot_parcel_no,underlying_parcel_number,begin_date,end_date,assmt_taxes,pilot_contract_amt,pilot_debt_service_amt,difference
+0,8ce75c30bfa5,microport orthopedics inc,11481 gulf stream,['IDB0000A000090'],['A0141000001560'],2009-10-29,2020-10-28 00:00:00,3729.0,3729.0,0.0,0.0
+1,8ce75c30bfa5,microport orthopedics inc,5677 airline,['IDB0000A00010A'],['3000100000000D'],2010-12-31,2021-12-31 00:00:00,24914.0,24914.0,0.0,0.0
+2,8ce75c30bfa5,microport orthopedics inc,5677 airline,['IDB0000A00012A'],['3000120000000D'],2014-12-31,2029-12-31 00:00:00,6733.0,100.0,1683.0,-4949.0
+3,d436d1c9a0ff,wright medical technology inc,0 memphis arlington,['IDB0000A000140'],['A0141L0A000040'],2014-12-31,2024-12-31 00:00:00,62901.0,62901.0,0.0,0.0
+4,d436d1c9a0ff,wright medical technology inc,11576 memphis arlington,['IDB0000A00015A'],['3000150000000D'],2014-12-31,2024-12-31 00:00:00,12884.0,12884.0,0.0,0.0
+5,8ce75c30bfa5,microport orthopedics inc,5640 5650 airline,['IDB0000A000160'],"['A0142000004050 ', 'A0142000007860']",2014-12-31,2028-12-31 00:00:00,85273.0,8579.0,21318.0,-55376.0
+6,8ce75c30bfa5,microport orthopedics inc,5677 airline,['IDB0000A00017A'],['3000170000000D'],2015-12-31,2030-12-31 00:00:00,7548.0,100.0,1887.0,-5561.0
+7,8ce75c30bfa5,microport orthopedics inc,5677 airline,['IDB0000A00018A'],['3000180000000D'],2016-12-31,2031-12-31 00:00:00,11473.0,100.0,2868.0,-8505.0
+8,b0e661555130,hmd wright llc,0 memphis arlington,['IDB0000A000190'],['A0141L0A000340'],2019-05-01,2029-05-01 00:00:00,85222.0,2796.0,21305.0,-61121.0
+9,d436d1c9a0ff,wright medical technology inc,11576 memphis arlington,['IDB0000A00020A'],['3000160000000D'],2015-12-31,2025-12-31 00:00:00,1240.0,100.0,310.0,-830.0

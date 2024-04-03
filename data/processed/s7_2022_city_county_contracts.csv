@@ -1,0 +1,6 @@
+,owner_id,owner,location,pilot_parcel_no,underlying_parcel_number,begin_date,end_date,assmt_taxes,pilot_contract_amt,pilot_debt_service_amt,difference
+0,492e94835954,memphis jewish housing development,0 poplar,['IPH0000C000000'],['8000800002380'],1989-01-01,End of Loan,9549.0,3600.0,0.0,-5949.0
+1,a9613db1b02e,coleman road supportive housing inc,2900 coleman,['IPH0000L000000'],['8800800002310'],2000-10-05,End of Loan,27231.0,768.0,0.0,-26463.0
+2,7454c78fba85,memphis supportive housing inc,1456 gillham,['IPH0000M000000'],['8900800000480'],2000-10-05,End of Loan,26332.0,835.0,0.0,-25497.0
+3,2ed2f9eac000,memphis community housing inc,1443 court,['IPH01150000000'],"['01702200000060', ' 7207200000280']",1993-11-30,End of Loan,7623.0,504.0,0.0,-7119.0
+4,3b726c280aad,wesley at millington inc,7917 cole,['IPH01160000000'],['M0115000008180'],1994-08-01,End of Loan,43555.0,162.0,0.0,-43393.0

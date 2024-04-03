@@ -1,0 +1,7 @@
+,owner_id,owner,location,pilot_parcel_no,underlying_parcel_number,begin_date,end_date,assmt_taxes,pilot_contract_amt,pilot_debt_service_amt,difference
+0,051a018be14c,st peter s manor,108 auburndale,['IPH0000A000000'],['1704800000290'],1977-09-26,2048-10-01 00:00:00,128377.0,6792.0,0.0,-121585.0
+1,87106a47fd39,highland meadows apts,3517 andy way,['IPH0000B000000'],['0830200000017C'],1989-10-16,2029-12-01 00:00:00,122950.0,89.0,0.0,-122861.0
+2,5cf3e3c81542,countryside north apartments l p,6920 reese,['IPH0000D000000'],['9510000000750'],1998-12-01,2038-12-01 00:00:00,91035.0,26512.0,0.0,-64523.0
+3,fe50ebe8a3cc,apartments at lapaloma ltd,0 parkway,['IPH0000F000000'],['0310940000003C'],1998-12-01,2029-12-01 00:00:00,28646.0,3513.0,0.0,-25133.0
+4,728ee4fde2a1,the trezevant episcopal home,0 waynoka,['IPH0001S000000'],"['04404300000690', ' 04404300000700', ' 04404300000710']",2006-03-28,2034-03-28 00:00:00,536553.0,47460.0,0.0,-489093.0
+5,ed07cbec1011,wesley graceland gardens l p,1445 raines,['IPH0001U000000'],"['07900400000060', ' 07900400000090', ' 07900400000100']",2016-08-01,2033-08-23 00:00:00,127867.0,4230.0,0.0,-123637.0
